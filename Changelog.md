@@ -1,6 +1,6 @@
 # 10thIA
 
-#1.5.3
+#v1.5.3
 >>Added: Flares to Pawnnees and Hummingbirds
 
 >>Added: More I-32 Flags
@@ -10,7 +10,7 @@
 >>Removed: Mortar class check (re-enables artillery computer)
 
 
-#1.5.2
+#v1.5.2
 >>Added: Textures for Mora & Gorgon
 
 >>Added: More "magazines" for light and heavy armored vehicles
