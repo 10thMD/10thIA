@@ -7,6 +7,7 @@
 
 >>Fixed: TeamSpeak IP on banner pictures
 
+>>Removed: Mortar class check (re-enables artillery computer)
 
 
 #1.5.2
