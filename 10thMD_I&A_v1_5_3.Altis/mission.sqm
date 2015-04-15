@@ -3667,7 +3667,7 @@ class Mission
 			vehicle="B_supplyCrate_F";
 			skill=0.60000002;
 			text="ammo2_1_1";
-			init="this addAction [""<t color='#ff1111'>VAS</t>"",""scripts\VAS\open.sqf"",[],10,true,true,'((vehicle player) == player) && ((player distance _target) < 5)']; this allowDamage false; this enableSimulation false;";
+			init="this allowDamage false; this enableSimulation false;";
 		};
 		class Item257
 		{
@@ -8095,7 +8095,7 @@ class Mission
 			leader=1;
 			skill=0.60000002;
 			text="ammo1";
-			init="this addAction [""<t color='#ff1111'>VAS</t>"",""scripts\VAS\open.sqf"",[],10,true,true,'((vehicle player) == player) && ((player distance _target) < 5)']; this allowDamage false; this enableSimulation false; this addAction [""Quick Gear Save"",QS_fnc_saveInventory,[],7,true,true,'((vehicle player) == player) && ((player distance _target) < 5)'];";
+			init="";
 		};
 		class Item697
 		{
