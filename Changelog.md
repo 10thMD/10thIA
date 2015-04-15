@@ -9,6 +9,8 @@
 
 >>Removed: Mortar class check (re-enables artillery computer)
 
+>>Removed: A few lingering VAS actions
+
 
 #v1.5.2
 >>Added: Textures for Mora & Gorgon
