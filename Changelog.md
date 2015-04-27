@@ -1,5 +1,18 @@
 # 10thIA
 
+#v1.5.4
+>>Added: More flares to the Wipeout
+
+>>Added: FOB Stricken
+
+>>Fixed: Fog issue
+
+>>Tweaked: Time to complete fixed-wing service
+
+>>Progress: FOB's with mortar emplacements
+
+
+
 #v1.5.3
 >>Added: Flares to Pawnnees and Hummingbirds
 
